@@ -7,9 +7,9 @@ We welcome you to the repository for Q-FEEDER - Quality Feedback Engine: Elevati
 
 ### 🤝 **Team Members:**
 
--   Alex Kokkinos - Operational Excellence Associate
--   Panagiotis Theodosiou - Operational Excellence Team Leader
--   Yannis Galanakis - Operational Excellence Associate
+-   **Alex Kokkinos** - Operational Excellence Associate
+-   **Panagiotis Theodosiou** - Operational Excellence Team Leader
+-   **Yannis Galanakis** - Operational Excellence Associate
 
 ### 🌟 **Overview:**
 
